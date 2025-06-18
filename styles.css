@@ -1,0 +1,30 @@
+body {
+  background-color: khaki;
+}
+.titulo {
+  background: rgb(247, 220, 111);
+}
+.titulo p {
+  font-size: 60px;
+  font-weight: bold;
+  color: black;
+}
+.enlaces {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+  background-color: blue;
+}
+.enlaces a {
+  color: white
+  font-family: Impact, haettenschweiler,"Arial Narrow bold", sans-serif
+  font-size:30px;
+  padding: 8px 15px;
+}
+
+.marco{
+  display: flex;
+  align-items: center justify-contetn: center;
+  weight:720px;
+}
